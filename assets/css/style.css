@@ -3516,12 +3516,12 @@ hr {
 
 /* line 32, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_h1-hero.scss */
 .slider-area {
-  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../img/hero/h1_hero.jpg);
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../img/hero/hero-2.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   /* Create the parallax scrolling effect */
-  /* background-attachment: fixed; */
+  background-attachment: fixed;
   /* filter: brightness(50%); */
   /* filter: brightness(75%) saturate(140%); */
 }
